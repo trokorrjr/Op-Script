@@ -1,3 +1,4 @@
 loadstring(game:HttpGet("https://pastefy.app/mnQQo0br/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/cAkv4KcV/raw?part=addon.lua"))()
 
+
+loadstring(game:HttpGet("https://pastefy.app/cAkv4KcV/raw?part=addon.lua"))()
